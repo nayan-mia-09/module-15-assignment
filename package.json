@@ -1,0 +1,26 @@
+{
+  "name": "module-15-assignment",
+  "version": "1.0.0",
+  "description": "Module-15-Assignment",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayan-mia-09/module-15-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nayan-mia-09/module-15-assignment/issues"
+  },
+  "homepage": "https://github.com/nayan-mia-09/module-15-assignment#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
